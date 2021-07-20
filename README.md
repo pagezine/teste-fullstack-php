@@ -55,6 +55,7 @@ Desenvolver uma **UI (User Interface)** de acordo com o desenho que está na pas
 
 - Cross browser support (IE11+)
 - Consumir **API** criada acima
+- Pode usar jQuery a vontade!
 - Criar uma tela que tenha...
     - Listagem de veículos
     - Busca
