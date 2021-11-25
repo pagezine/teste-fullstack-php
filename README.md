@@ -68,3 +68,18 @@ Tudo que for feito em adicional, se for somar ao projeto, contará pontos positi
 ## Dúvida
 
 Se tiver qualquer dúvida sobre esse teste, envie um email com o título `[Teste Fullstack PHP] O assunto que vc deseja` para rh@4.events
+
+
+##Instalando aplicação
+
+Criar o banco de dados execute o arquivo em serie_car.sql no seu banco de dados MySQL para criar a tabela.
+
+Configure seu banco em config.php alterando os valores abaixo para os correspondentes:
+
+   const DB_HOST = "localhost"; //Database Address
+   const DB_NAME = "serie_car"; //Database Name
+   const DB_USER = "root"; //Database User
+   const DB_PASS = ""; //Database password
+
+Abrir pasta public_html  index.php
+
